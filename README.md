@@ -2,6 +2,6 @@
 - 👀 Part of @pintarngoding 
 - 🌱 I’m currently learning Javascript, Python and .LUA
 
-- REKTOSMAMDA2021-2022
+Developer
 
 ~ C H R O Z A ~ 
