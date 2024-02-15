@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrozaGaming
 - 👀 Part of @chrozaframework
-- 🌱 I’m currently learning Javascript, Python and .LUA
+- 🌱 I’m currently learning Javascript, Python and Java
 
 Developer
 
